@@ -17,7 +17,6 @@
 #### - Automating Infrastructure provisioning:
 	- Ansible, 
 	- Cheff,
-	- Puppet,
 	- Terraform
 	- Packer,
 	- Vagrant,
